@@ -1,6 +1,6 @@
 # simple_lane_detection
 Reading Images
-Color Filtering in HLS
+./Color Filtering in HLS
 Region of Interest
 Canny Edge Detection
 Hough Line Detection
