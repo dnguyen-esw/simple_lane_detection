@@ -1,5 +1,5 @@
 # Simple lane detection
-1. Reading Images
+</br>1. Reading Images
 </br>2. Color Filtering in HLS
 </br>3. Region of Interest
 </br>4. Canny Edge Detection
