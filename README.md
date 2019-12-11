@@ -1,4 +1,4 @@
-# simple_lane_detection
+# Simple lane detection
 Reading Images
 </br>Color Filtering in HLS
 </br>Region of Interest
