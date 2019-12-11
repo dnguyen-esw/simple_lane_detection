@@ -1,10 +1,10 @@
 # Simple lane detection
-Reading Images
-</br>Color Filtering in HLS
-</br>Region of Interest
-</br>Canny Edge Detection
-</br>Hough Line Detection
-</br>Line Filtering & Averaging
-</br>Overlay detected lane
-</br>Applying to Video
+1. Reading Images
+</br>2. Color Filtering in HLS
+</br>3. Region of Interest
+</br>4. Canny Edge Detection
+</br>5. Hough Line Detection
+</br>6. Line Filtering & Averaging
+</br>7. Overlay detected lane
+</br>8. Applying to Video
 </br>Link: https://www.hackster.io/kemfic/simple-lane-detection-c3db2f#overview
